@@ -1,0 +1,12 @@
+edu/bu/met/cs665/Main.class
+edu/bu/met/cs665/email/Frequent.class
+edu/bu/met/cs665/email/Company.class
+edu/bu/met/cs665/email/Business.class
+edu/bu/met/cs665/email/New.class
+edu/bu/met/cs665/email/TemplateImpl1.class
+edu/bu/met/cs665/email/Vip.class
+edu/bu/met/cs665/email/CompanyImpl.class
+edu/bu/met/cs665/email/Template.class
+edu/bu/met/cs665/email/Customer.class
+edu/bu/met/cs665/email/Returning.class
+edu/bu/met/cs665/example1/Person.class

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.30">
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/example1/Person.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/Main.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/Customer.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/CompanyImpl.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/Frequent.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/Vip.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/TemplateImpl1.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/Company.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/Business.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/Template.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/New.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass3/src/main/java/edu/bu/met/cs665/email/Returning.java">
+</file>
+</checkstyle>
