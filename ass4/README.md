@@ -28,7 +28,7 @@ When the getCustomerHttps() is called on the adapter object, it calls the getCus
 # GitHub Repository Link:
 https://github.com/MingjiaGong/CS_665_projects/tree/main/ass4
 
-I invited you(github username: Ed Orsini) as this project's collaborator.
+
 
 # Implementation Description 
 
