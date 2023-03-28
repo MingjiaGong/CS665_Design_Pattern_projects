@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.30">
+<file name="/Users/mingjiagong/Desktop/665/ass4/src/main/java/edu/bu/met/cs665/system/CustomerDataUsb.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass4/src/main/java/edu/bu/met/cs665/system/UsbAdapter.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass4/src/main/java/edu/bu/met/cs665/system/CustomerDataUsbImpl.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass4/src/main/java/edu/bu/met/cs665/system/CustomerDataHttps.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass4/src/main/java/edu/bu/met/cs665/system/CustomerDataHttpsImpl.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass4/src/main/java/edu/bu/met/cs665/example1/Person.java">
+</file>
+<file name="/Users/mingjiagong/Desktop/665/ass4/src/main/java/edu/bu/met/cs665/Main.java">
+</file>
+</checkstyle>

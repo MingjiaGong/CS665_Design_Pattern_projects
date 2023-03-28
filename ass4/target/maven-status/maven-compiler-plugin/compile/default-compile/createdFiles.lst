@@ -1,0 +1,7 @@
+edu/bu/met/cs665/Main.class
+edu/bu/met/cs665/system/UsbAdapter.class
+edu/bu/met/cs665/system/CustomerDataUsb.class
+edu/bu/met/cs665/system/CustomerDataHttps.class
+edu/bu/met/cs665/system/CustomerDataUsbImpl.class
+edu/bu/met/cs665/example1/Person.class
+edu/bu/met/cs665/system/CustomerDataHttpsImpl.class
