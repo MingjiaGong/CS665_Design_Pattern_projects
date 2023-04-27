@@ -1,5 +1,6 @@
 package edu.bu.met.cs665;
 
+import edu.bu.met.cs665.diagramming.application.*;
 import edu.bu.met.cs665.diagramming_application.*;
 import org.junit.Test;
 

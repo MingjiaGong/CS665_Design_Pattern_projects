@@ -14,20 +14,44 @@ The Shape class implements the ShapePrototype interface and provides a clone() m
 allows creating new shape objects by cloning an existing shape.
 
 # GitHub Repository Link:
-https://github.com/MingjiaGong/CS_665_projects/tree/main/final project
+https://github.com/MingjiaGong/CS_665_projects/tree/main/final%20project
 
 # Implementation Description 
 
 
 For each assignment, please answer the following:
 
-- Explain the level of flexibility in your implementation, including how new object types can
+Explain the level of flexibility in your implementation, including how new object types can
 be easily added or removed in the future.
-- Discuss the simplicity and understandability of your implementation, ensuring that it is
+- The implementation of the Shape project using the Prototype pattern provides a high level of flexibility.
+- It allows new object types to be easily added by creating a new subclass of the Shape abstract class and implementing the clone() method. 
+- This approach also allows for easy removal of object types, by simply removing the corresponding subclass.
+
+Discuss the simplicity and understandability of your implementation, ensuring that it is
 easy for others to read and maintain.
-- Describe how you have avoided duplicated code and why it is important.
-- If applicable, mention any design patterns you have used and explain why they were
+
+- The implementation of the Shape project is simple and easy to understand. 
+- The use of the Prototype pattern is a well-known design pattern, and its implementation in the project follows the standard practices. 
+- The code is well-organized, with clear documentation for each class and method. 
+- The use of meaningful names for variables and methods also contributes to the readability of the code.
+
+Describe how you have avoided duplicated code and why it is important.
+
+- To avoid duplicate code, the Shape class has been created as an abstract class with common fields and methods 
+shared by all the concrete classes such as Circle, Triangle, and Heart.
+- By doing so, the common functionality is centralized in one place 
+and each concrete class only needs to implement its specific functionality.
+- This approach is important as it reduces code redundancy and improves maintainability. 
+- It also makes it easier to add or modify functionality in the future since the changes only need to be made in one place instead of in multiple locations.
+
+
+
+If applicable, mention any design patterns you have used and explain why they were
 chosen.
+
+- The Shape project uses the Prototype pattern, a well-known and widely used design pattern. 
+- This pattern was chosen because it provides a simple and flexible solution for creating and cloning complex objects. 
+- The use of this pattern also helps to decouple the client code from the concrete classes, making it easier to modify the behavior of the system in the future.
 
 
 # Maven Commands
